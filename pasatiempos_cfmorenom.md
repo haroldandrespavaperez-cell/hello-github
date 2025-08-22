@@ -1,11 +1,9 @@
 ## pasatiempos
 
-*dibujar
 
-*escuchar musica
+**escuchar musica**
 
-*dormir
+**dormir**
 
-*jugar videojuegos
+**jugar videojuegos**
 
-*comer
