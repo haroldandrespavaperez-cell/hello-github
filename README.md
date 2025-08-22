@@ -1,7 +1,7 @@
 # hello-github
 
-*harold pava*
+**harold pava**
 
-*ingenieria de sistemas*
+**ingenieria de sistemas**
 
 `ucompensar`
